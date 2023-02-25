@@ -28,7 +28,7 @@ flutter run
 ```
 ### Contributing
 
-We welcome contributions to News App! If you would like to contribute, please follow these steps:
+We welcome contributions to ToDo App! If you would like to contribute, please follow these steps:
 
 - Fork the repository
 - Create a new branch ``` git checkout -b feature/new-feature ```
