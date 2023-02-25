@@ -19,16 +19,25 @@ This app was built with Flutter and Sqflite. The Bloc pattern was used to manage
 
 ### Getting Started
 
-To run the app, you need to have Flutter installed on your machine. Clone this repository and run the following command:
+To run ToDo App on your local machine, you will need to have Flutter installed. Once you have Flutter set up, you can clone this repository and run the app using the following commands:
 
 ```
+git clone https://github.com/SamerAKhusein/ToDo-App.git
+cd ToDo-App
 flutter run
-
 ```
-### Contributions
+### Contributing
 
-Contributions are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
+We welcome contributions to News App! If you would like to contribute, please follow these steps:
 
-### License
+- Fork the repository
+- Create a new branch ``` git checkout -b feature/new-feature ```
+- Make your changes
+- Commit your changes ``` git commit -m "Add new feature" ```
+- Push to the branch ``` git push origin feature/new-feature ```
+- Create a new Pull Request
 
-This app is licensed under the MIT License. See the LICENSE file for details
+
+### Contact
+
+If you have any questions or feedback about ToDo App, please contact us at samerakhusein@gmail.com .
