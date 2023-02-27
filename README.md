@@ -37,6 +37,9 @@ We welcome contributions to ToDo App! If you would like to contribute, please fo
 - Push to the branch ``` git push origin feature/new-feature ```
 - Create a new Pull Request
 
+### License
+
+ToDo App is open source software licensed under the MIT license. See the [LICENSE](https://opensource.org/license/mit/) file for more information
 
 ### Contact
 
